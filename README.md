@@ -9,6 +9,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/wahid000786](https://github.com/wahid000786)
 
+- 📝 I regularly write articles on [medium.com/@techwithwahid](medium.com/@techwithwahid)
+
 - 💬 Ask me about **Devops, Frontend, Cloud Technologies**
 
 - 📫 How to reach me **wahidhossanincareer@gmail.com**
